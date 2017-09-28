@@ -1,1 +1,1 @@
-# oskar-jas.github.io/loading-page
+# oskar-jas.github.io/index
